@@ -20,11 +20,11 @@ header h1 {
 	width: 800px;
 }
 
-#armies {
+.armies {
 	list-style: none;
 }
 
-#DA_ORK {
+.DA_ORK {
 	color: DarkGreen;
 	font-family: Impact, Charcoal, sans-serif;
 	font-size: 30px;
