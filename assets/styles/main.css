@@ -10,6 +10,11 @@ header h1 {
 	font-size: 30px;
 }
 
+#gamesPlayed {
+	height: 800px;
+	width: 611px;
+}
+
 #score {
 	height: 1230px;
 	width: 1225px;
